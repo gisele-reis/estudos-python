@@ -11,3 +11,8 @@
 ## Projeto 3: Python IA
 ### Projeto de Inteligência Artificial
 * **Principais resultados:** Criação de uma IA capaz de prever a nota de crédito de clientes de uma financeira com 86% de precisão baseado nas características dos clientes.
+<br>
+
+## Projeto 4: Python Chat
+### Projeto de Criação de Site/App
+* **Principais resultados:** Criação de um chat ao vivo para site e para app usando a ferramenta Flet, tanto frontend como backend, feitos em Python.
